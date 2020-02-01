@@ -71,7 +71,7 @@ def main():
         book.addChapter(chapterTitle, content, i)
 
     print("Finalizing book")
-    book.finalizeBook("test.epub")
+    book.finalizeBook("EconomySocietyAndPublicPolicy.epub")
     print("Done!")
 
 
